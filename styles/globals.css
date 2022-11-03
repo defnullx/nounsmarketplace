@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --dk-grey: rgba(0, 0, 0, 0.6);
+  --light-grey: rgba(0, 0, 0, 0.125);
+}
